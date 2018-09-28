@@ -1,5 +1,7 @@
 # rustup: the Rust toolchain installer
 
+touch
+
 | Build Status |                                                                              |
 |--------------|------------------------------------------------------------------------------|
 | Travis       | [![Travis Build Status][travis-build-status-svg]][travis-build-status]       |
