@@ -121,6 +121,7 @@ branches:
     - master
     - stable
     - auto
+    - test-on-macosx
 
 install:
   - if [ -z "$NO_ADD" ]; then rustup target add $TARGET; fi
